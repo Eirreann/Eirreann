@@ -1,4 +1,4 @@
-Most of my professional work is covered by non-disclosure agreements, so the code on my GitHub comes from game jams, side projects, and my MSc. You can see my professional work, including serious games, XR training, and AI conversation practice, on [my website](https://iain-skaggs.com/home).
+Most of my professional work is covered by non-disclosure agreements, so the code on my GitHub comes from game jams, side projects, and my MSc. You can see some of my professional work, including serious games, XR training, and AI conversation practice, on [my website](https://iain-skaggs.com/home).
 
 [Website](https://iain-skaggs.com/home) • [LinkedIn](https://www.linkedin.com/in/iain-skaggs/) • [itch.io](https://iains.itch.io/)
 
